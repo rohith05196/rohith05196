@@ -17,7 +17,7 @@ I’m a **Mechatronics Engineer** with a background in **software development** 
 ---
 
 ### 🛠️ Tools & Languages
-`MATLAB` `Python` `SQL` `C/C++` `Java` `Simulink` `Git` `Linux` `Docker` `Github Acrtions` etc etc.
+`MATLAB` `Python` `SQL` `C/C++` `Java` `Simulink` `Git` `Linux` `Docker` `Github Actions` `CI/CD` `Azure DevOps` etc etc.
 
 ---
 
