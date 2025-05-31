@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rohith
 
-<!--
-**rohith05196/rohith05196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Mechatronics Engineer** with a strong background in **software development**, passionate about building intelligent systems through control, automation, and machine learning. With a strong bacground in Mecahnical engineering previously, I have vouched to be a complete engineer with core fundamental skills and an added layer of programming skills. Recently I have delved deep into some projects in ML, Control systems and software development including an attempt to get my hands dirty on full stack delevopment as well wherein I have been using `html` and `Flask`. So this is a warehouse which would include some of my works where I try to get my hands dirty on trying out new things and learning. 
 
-Here are some ideas to get you started:
+🚀 I enjoy experimenting with new tools and technologies — constantly learning through hands-on projects in **ML**, **simulation**, and **system design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I Work On
+- ⚙️ Dynamic System Modeling & Control
+- 🧠 Machine Learning for Engineering Applications
+- 📊 Simulation Tools & Predictive Control
+- 💻 Prototyping Tools & Automation (MATLAB, Python, SQL)
+
+---
+
+### 🛠️ Tools & Languages
+`MATLAB` `Python` `SQL` `C++` `Java` `Simulink` `Git` `Linux`
+
+---
+
+### 📂 Sample Projects
+- 🔋 **Data Driven Techniques** - Gaussian process for MPC
+- 🛴 **GP-MPC for Segway** – Gaussian Process-based control for nonlinear systems  
+- 📈 **DC Motor MPC** – Predictive control implementation using CasADi
+
+---
+
+### 🌱 Currently Exploring
+- Real-time ML for control systems  
+- Automation in renewable energy workflows  
+- Lightweight computation for simulation tools
+
+---
+
+### 📫 Let’s Connect!
+Check out my projects or [connect on LinkedIn](https://www.linkedin.com/in/rohith-kamath-mijar-a47aaa12a) 
+
+Let’s innovate and build together! 🚀
