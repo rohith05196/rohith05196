@@ -31,7 +31,8 @@ I’m a **Mechatronics Engineer** with a background in **software development** 
 ### 🌱 Currently Exploring
 - Real-time ML for control systems  
 - Automation in renewable energy workflows  
-- Lightweight computation for simulation tools
+- Transformers and LLMS
+- Custom Chatbot(Chess Engine) for beginners using NLP
 
 ---
 ### 📫 Let’s Connect!
