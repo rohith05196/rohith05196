@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-I am a mechanical engineer and a tech geek, always curious to learn and explore. I enjoy stepping outside my comfort zone to try out new technologies and approaches, especially in software engineering, AI, and machine learning. The repositories hosted here are my attempt to capture and experiment with solutions to real-world problems. They are not perfect, but they reflect my drive to learn, test, and share.
+I am a mechanical engineer and a tech geek, always curious to learn and explore. I enjoy stepping outside my comfort zone to try out new technologies and approaches, especially in software engineering, AI, and machine learning. The repositories hosted here are my attempt to capture and experiment with solutions to real-world problems. They are not perfect, so fel free to pinpoint improvements and changes :) I would be happy to look into it.
 
 If you notice bugs or have ideas for improvements, please feel free to create an issue — I will tackle them as soon as possible. And if you have new ideas that could be implemented as a team, I will be glad to hear them. You can always reach out to me through any of the platforms linked here. I believe tech is best explored together, and I will always stay open to learning, building, and growing with others.
 
