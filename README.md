@@ -51,7 +51,7 @@ If you notice bugs or have ideas for improvements, please feel free to create an
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 - Real-time ML for control systems 
 - Automation in renewable energy  
 - Transformers & LLMs  
@@ -59,7 +59,7 @@ If you notice bugs or have ideas for improvements, please feel free to create an
 
 ---
 
-## ✈ Interests
+## Interests
 - Formula 1 – where the fusion of mechanical design, aerodynamics, and team strategies in a race (and beyond) amazes me, showing how engineering excellence and collective decision-making shape outcomes at the highest level.
 - Aviation systems – where the challenge of integrating mechanical, software, and safety-critical systems fascinates me, especially how every detail matters for reliability and performance.
 - Mechanical design – where turning concepts into practical solutions excites me, from CAD modeling to prototyping, and seeing how design choices influence real-world functionality.
